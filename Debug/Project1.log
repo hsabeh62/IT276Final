@@ -1,0 +1,10 @@
+﻿  Game.cpp
+c:\users\hikmat\desktop\college\spring semester 2019\it276\dear god help\project1\project1\game.cpp(211): warning C4244: 'argument': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\hikmat\desktop\college\spring semester 2019\it276\dear god help\project1\project1\game.cpp(263): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Hikmat\Desktop\COLLEGE\Spring Semester 2019\IT276\dear god help\Project1\Debug\Project1.exe
